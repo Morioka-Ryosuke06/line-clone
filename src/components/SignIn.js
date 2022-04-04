@@ -9,7 +9,7 @@ function SignIn() {
   }
   return (
     <div>
-      <button onClick={signInWithGoogle}>Googleでログイン</button>
+      <button onClick={signInWithGoogle}>Googleでログインしてね</button>
     </div>
   );
 }
